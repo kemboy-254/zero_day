@@ -1,2 +1,2 @@
-**VAGRANT**
-My markdown text
+**VAGRANT**  
+My markdown text  
